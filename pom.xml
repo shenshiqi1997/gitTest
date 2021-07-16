@@ -16,6 +16,11 @@
 
     <dependencies>
         <!-- spring-boot-starter -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+            <version>2.4.0</version>
+        </dependency>
         <!-- spring-boot-starter-web -->
         <!-- spring-boot-devtools -->
         <!-- spring-boot-starter-test -->
